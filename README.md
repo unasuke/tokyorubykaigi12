@@ -1,6 +1,7 @@
-# TODO: スライドのタイトル
+# TokyoRubyKaigi12
 
-TODO: スライドの説明
+* <https://regional.rubykaigi.org/tokyo12/>
+* <https://connpass.com/event/339170/>
 
 ## 作者向け
 
