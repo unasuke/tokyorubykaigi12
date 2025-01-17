@@ -1,19 +1,23 @@
 ---
 id: tokyorubykaigi12
 base_name: slide
-tags: []
-presentation_date:
+tags: [
+  "rails",
+  "ruby",
+  "tokyorubykaigi12",
+]
+presentation_date: 2025-01-17
 presentation_start_time:
 presentation_end_time:
 version: 1.0.0
-licenses: []
+licenses: ["MIT"]
 slideshare_id:
 speaker_deck_id:
 vimeo_id:
 youtube_id:
 width: 1920
 height: 1080
-source_code_uri:
+source_code_uri: https://github.com/unasuke/tokyorubykaigi12
 author:
   markup_language: :markdown
   name: unasuke
